@@ -10,15 +10,49 @@
 {
 display:flex;
 justify-content:space-between;
+padding:20px;
 }
 .header-fc .logo{
 	height:40px;
 	width:90px;
 	color:white;
+	
+	
 }
 .header-fc .navi{
 	color:white;
 	width:140px;
 	height:40px;
 }
+
+.welcome{
+	background-color:#227bfd;
+}
+.welcome-fc{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.welcome-fc .welcome-heading{
+	text-align:center;
+	height:48px;
+	width:100%;
+}
+.welcome-fc .welcome-para{
+	width:100%;
+	height:30px;
+	margin-top:20px;
+	text-align:center;
+}
+.welcome-butt{
+	
+	border:1px solid white;
+	margin-top:20px;
+	margin-left:45%;
+	margin-bottom:10px;
+	padding:10px;
+	background-color:white;
+}
+
+	
 	
