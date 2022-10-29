@@ -1,6 +1,6 @@
 .wrapper{
 	margin:auto;
-	width:70%;
+	width:80%;
 }
 
 .header{
@@ -53,6 +53,85 @@ padding:20px;
 	padding:10px;
 	background-color:white;
 }
-
+.about{
+	background-color:white;
+}
+.about-fc{
+	display:flex;
+	background-color:#E74C3C;
+	margin-top:144px;
+	flex-wrap:wrap;
+}
+.about-fc .about-heading{
+	width:100%;
+	height:38px;
+	text-align:center;
+}
+.welcome-para{
+	width:100%;
+	height:264px;
+	margin-top:20px;
+	margin-left:30%;
+	padding-bottom:20px;
+}
+.service{
+	background-color:white;
+}
+.service-fc{
+	display:flex;
+	flex-wrap:wrap;
+	background-color:#E67E22;
+	margin-top:350px;
+}
+.serivce-heading{
+	height:38px;
+	width:100%;
+	text-align:center;
+}
+.service-para{
+	height:90px;
+	width:100%;
+	margin-top:30px;
+	margin-left:30%;
 	
+}
+.contact-us{
+	background-color:white;
+	margin-top:290px;
+	
+}
+.contact-us-fc{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	background-color:#BDE622;
+
+}
+.contact-us-head{
+width:100%;
+height:38px;
+margin-left:30%;
+}
+.contact-us-para{
+	width:100%;
+	height:152px;
+	margin-left:30%;
+	margin-top:25px;
+}
+.footer{
+	background-color:#212529;
+	color:white;
+	margin-top:152px;
+}
+.footer-us-fc{
+display:flex;
+flex-wrap:wrap;
+
+}
+.foot{
+	width:100%;
+	text-align:center;
+	color:white;
+	height:152px;
+}
 	
