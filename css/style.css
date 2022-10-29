@@ -1,0 +1,24 @@
+.wrapper{
+	margin:auto;
+	width:70%;
+}
+
+.header{
+	background-color:#727676;
+}
+.header-fc
+{
+display:flex;
+justify-content:space-between;
+}
+.header-fc .logo{
+	height:40px;
+	width:90px;
+	color:white;
+}
+.header-fc .navi{
+	color:white;
+	width:140px;
+	height:40px;
+}
+	
